@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: black;
+    text-align: center;
 }
 
 h1 {
@@ -29,11 +30,6 @@ img {
     height: auto;
     border: 3px solid blue;
     border-radius: 10px;
-}
-
-h3 {
-    color: gold;
-    text-align: center;
 }
 
 h2, p {
